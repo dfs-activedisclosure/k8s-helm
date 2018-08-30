@@ -2,7 +2,7 @@
 
 ## Supported tags and respective `Dockerfile` links
 
-* `v2.7.2`, `latest`    [(v2.7.2/Dockerfile)](https://github.com/dfs-activedisclosure/k8s-helm/blob/v2.7.2/Dockerfile)
+* `v2.9.1`, `latest`    [(v2.9.1/Dockerfile)](https://github.com/dfs-activedisclosure/k8s-helm/blob/v2.9.1/Dockerfile)
 
 ## Overview
 
